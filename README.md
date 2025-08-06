@@ -58,7 +58,7 @@ The code in `snippet.js` is written to be **compatible with Workers** with minim
 
 ---
 
-## Why Start with Snippets?
+## What are Snippets?
 
 - **Free** on paid Cloudflare plans (Pro, Business, Enterprise).
 - Executes extremely fast (≤ 5 ms CPU).
