@@ -46,6 +46,7 @@ The routing is **sticky** — once a visitor is assigned a site, they will conti
 ## Migrating to a Cloudflare Worker
 
 The code in `snippet.js` is written to be **compatible with Workers** with minimal changes.
+Please see `worker.js` for a full compatible Worker that does split routing to different backends.
 
 ### Steps to Move
 
